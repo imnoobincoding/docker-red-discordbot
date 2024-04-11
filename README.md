@@ -1,4 +1,7 @@
-# Red-DiscordBot V3
+# This is a fork of the Discord Redbot Container from [PhasecoreX](https://github.com/PhasecoreX/docker-red-discordbot)
+This fork aims to add the recently remade Dashboard (fromly from [Neuroassasin](https://github.com/NeuroAssassin)) from  [AAA3A](https://github.com/AAA3A-AAA3A) to the Container to only use one container instead of running two in docker host mode.
+
+## Red-DiscordBot V3
 The newest Red-DiscordBot in a convenient multi-arch container
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/phasecorex/red-discordbot)](https://hub.docker.com/r/phasecorex/red-discordbot)
